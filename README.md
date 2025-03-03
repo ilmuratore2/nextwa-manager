@@ -1,2 +1,1 @@
 # nextwa-manager
-# nextwa-manager
