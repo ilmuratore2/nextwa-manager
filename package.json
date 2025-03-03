@@ -1,0 +1,22 @@
+{
+  "name": "nextwa-backend",
+  "version": "0.1 Alpha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "IE TECH LABS",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "NexWA Backend is the engine that powers NextWA Manager the app dedicated to manage all your WhatsApp Business and Personal Account in one place. The backend is developer with Node.js, Express.js and Baileys.",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.15",
+    "express": "^4.21.2",
+    "mongoose": "^8.11.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
